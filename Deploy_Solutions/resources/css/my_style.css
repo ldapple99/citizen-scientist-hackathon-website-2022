@@ -1,0 +1,37 @@
+.sansSerifFont{
+    font-family:Helvetica, sans-serif
+}
+.courierFont{
+    font-family:'Courier New', Courier, monospace
+}
+.centerText{
+    text-align: center;
+}
+.darkGreyTextColour{
+    color:#494949
+}
+.whiteTextColour{
+    color:whitesmoke
+}
+.boldFont {
+    font-weight: bold;
+}
+.thinFont {
+    font-weight:lighter;
+}
+.underline{
+    text-decoration:underline
+}
+.hallowCircleBullet{
+    list-style-type: circle;
+}
+div{
+    padding: 10px
+}
+footer{
+    position: absolute;
+    width: 100%;
+}
+nav{
+    position: static;
+}
